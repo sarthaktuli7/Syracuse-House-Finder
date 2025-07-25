@@ -1,0 +1,101 @@
+title,price,beds,baths,address,lat,lon,link,neighborhood,is_furnished,sqft,walk_score,transit_score,bike_score,has_parking,pet_friendly,laundry,days_on_market,landlord_rating
+Comstock Ave 4BR Student House,2100,4,2,715 Comstock Ave,43.0402,-76.1324,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1800,88,75,92,TRUE,FALSE,In-unit,3,4.2
+Madison St 3BR Walk-to-SU,1800,3,1,909 Madison St,43.0381,-76.1301,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,1200,92,85,88,FALSE,TRUE,Shared,7,3.8
+Walnut Ave 2BR Renovated,1500,2,1,505 Walnut Ave,43.0365,-76.128,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,TRUE,950,85,72,90,TRUE,TRUE,In-unit,1,4.5
+SU Campus 5BR Furnished,2500,5,2,123 College Pl,43.039,-76.1345,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,2200,95,90,95,TRUE,FALSE,In-unit,5,4.1
+Downtown Luxury 1BR,1200,1,1,456 S Salina St,43.0487,-76.1524,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,FALSE,700,78,92,85,FALSE,TRUE,Shared,12,3.9
+Westcott 3BR Character Home,1650,3,1.5,201 Westcott St,43.0423,-76.1317,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,FALSE,1500,87,68,82,TRUE,FALSE,None,9,4.3
+Thornden Park 2BR Apt,1350,2,1,300 Ostrom Ave,43.0445,-76.1298,https://orangehousing.com/index.php/syracuse-apartments/listings,East Neighborhood,TRUE,1100,82,74,88,FALSE,TRUE,In-unit,2,4.7
+Euclid Ave 4BR Student Rental,2200,4,2,400 Euclid Ave,43.0376,-76.1265,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,2000,90,82,94,TRUE,FALSE,Shared,4,3.7
+South Campus 3BR House,1900,3,1,500 Sumner Ave,43.0321,-76.1354,https://orangehousing.com/index.php/syracuse-apartments/listings,South Campus,FALSE,1600,76,65,78,TRUE,TRUE,None,15,4
+Tipp Hill 2BR Modern,1400,2,1,100 Tompkins St,43.0278,-76.1489,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,TRUE,1000,71,58,65,FALSE,FALSE,In-unit,6,4.2
+SU Adjacent 6BR Party House,3000,6,3,200 Ackerman Ave,43.0412,-76.1376,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,2800,93,88,96,TRUE,FALSE,Shared,8,3.5
+Eastwood 1BR Cozy,950,1,1,300 Jamesville Ave,43.0543,-76.1087,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastwood,TRUE,650,65,42,70,FALSE,TRUE,None,20,4.4
+Strathmore 3BR Luxury,2300,3,2,400 Strathmore Dr,43.0254,-76.1187,https://orangehousing.com/index.php/syracuse-apartments/listings,Strathmore,FALSE,1800,62,35,55,TRUE,FALSE,In-unit,10,4.6
+Near SU Hospital 2BR,1250,2,1,500 Irving Ave,43.0345,-76.1423,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,900,89,83,91,FALSE,TRUE,Shared,3,4.3
+Westside 1BR Budget,750,1,1,600 Geddes St,43.0521,-76.1623,https://orangehousing.com/index.php/syracuse-apartments/listings,Westside,FALSE,500,55,48,62,FALSE,FALSE,None,25,3.2
+SU Shuttle Route 4BR,2400,4,2,700 Comstock Ave,43.0398,-76.1332,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,2100,91,86,93,TRUE,TRUE,In-unit,5,4.1
+Lincoln Ave 3BR Updated,1750,3,1,800 Lincoln Ave,43.0367,-76.1254,https://orangehousing.com/index.php/syracuse-apartments/listings,East Neighborhood,FALSE,1400,79,63,85,TRUE,FALSE,Shared,11,3.9
+Ostrom Ave 2BR Quiet,1300,2,1,900 Ostrom Ave,43.0432,-76.1287,https://orangehousing.com/index.php/syracuse-apartments/listings,East Neighborhood,TRUE,1000,84,70,89,FALSE,TRUE,In-unit,2,4.5
+Redfield 5BR Spacious,2700,5,2.5,100 Redfield Pkwy,43.0289,-76.1198,https://orangehousing.com/index.php/syracuse-apartments/listings,Redfield,FALSE,2400,58,30,60,TRUE,FALSE,None,14,4
+Near SU Law School 1BR,1100,1,1,200 MacKinnon Ave,43.0376,-76.1398,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,750,88,84,90,FALSE,FALSE,In-unit,4,4.2
+Westcott 4BR Character,2200,4,2,300 Westcott St,43.0415,-76.1321,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Westcott,FALSE,1900,86,72,87,TRUE,TRUE,None,7,4.4
+SU South 3BR Modern,1950,3,2,400 Clarendon St,43.0312,-76.1365,https://syracusequalityliving.com/property/page/2/?sortby=a_price,South Campus,TRUE,1600,77,66,80,TRUE,FALSE,In-unit,9,3.8
+Downtown Loft 2BR,,,,,,,https://syracusequalityliving.com/property/page/2/?sortby=a_price,,,,,,,,,,,
+SU Hill 5BR Furnished,2800,5,3,600 Walnut Ave,43.0354,-76.1276,https://syracusequalityliving.com/property/page/2/?sortby=a_price,University Hill,TRUE,2500,92,85,95,TRUE,FALSE,In-unit,5,3.9
+Eastside 1BR Affordable,850,1,1,700 Lancaster Ave,43.0567,-76.1076,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Eastside,FALSE,600,63,40,68,FALSE,TRUE,None,22,3.7
+Near SU Dome 4BR,2600,4,2,800 Euclid Ave,43.0365,-76.1254,https://syracusequalityliving.com/property/page/2/?sortby=a_price,University Hill,TRUE,2200,94,89,97,TRUE,TRUE,Shared,3,4.3
+Westcott 2BR Updated,1450,2,1,900 Harvard Pl,43.0421,-76.1309,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Westcott,TRUE,1100,87,73,89,FALSE,FALSE,In-unit,1,4.7
+SU Adjacent 3BR,2000,3,1.5,100 Ackerman Ave,43.0409,-76.1372,https://syracusequalityliving.com/property/page/2/?sortby=a_price,University Hill,FALSE,1700,90,84,92,TRUE,TRUE,None,8,3.6
+Tipp Hill 4BR Spacious,2300,4,2,200 Tompkins St,43.0265,-76.1498,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Tipperary Hill,FALSE,2000,73,60,72,TRUE,FALSE,Shared,12,4
+Eastwood 2BR Modern,1200,2,1,300 Jamesville Ave,43.0532,-76.1098,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Eastwood,TRUE,950,68,45,75,FALSE,TRUE,In-unit,5,4.2
+SU Campus 6BR Luxury,3200,6,3.5,400 Comstock Ave,43.0387,-76.1334,https://syracusequalityliving.com/property/page/2/?sortby=a_price,University Hill,TRUE,3000,96,92,98,TRUE,FALSE,In-unit,7,4.5
+Westside 3BR Updated,1600,3,1,500 Geddes St,43.0512,-76.1632,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Westside,FALSE,1350,57,50,65,TRUE,TRUE,None,18,3.4
+Strathmore 2BR Quiet,1400,2,1,600 Strathmore Dr,43.0243,-76.1176,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Strathmore,TRUE,1100,65,38,70,FALSE,FALSE,In-unit,10,4.3
+SU Medical Area 1BR,1050,1,1,700 Irving Ave,43.0334,-76.1432,https://syracusequalityliving.com/property/page/2/?sortby=a_price,University Hill,FALSE,800,87,82,89,FALSE,TRUE,Shared,4,4.1
+Downtown 3BR Loft,2200,3,2,800 S Salina St,43.0476,-76.1532,https://syracusequalityliving.com/property/page/2/?sortby=a_price,Downtown,TRUE,1800,82,95,86,FALSE,FALSE,In-unit,9,4
+Westcott 5BR Historic,2900,5,2,900 Westcott St,43.0408,-76.1315,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,FALSE,2600,85,70,88,TRUE,TRUE,None,11,4.4
+SU South 2BR Modern,1500,2,1,100 Clarendon St,43.0301,-76.1376,https://orangehousing.com/index.php/syracuse-apartments/listings,South Campus,TRUE,1200,78,67,82,TRUE,FALSE,In-unit,2,4.6
+Eastside 4BR Spacious,2400,4,2,200 Lancaster Ave,43.0556,-76.1087,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastside,FALSE,2100,70,55,80,TRUE,TRUE,Shared,15,3.8
+SU Hill 3BR Updated,2100,3,2,300 Walnut Ave,43.0356,-76.1287,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1800,93,87,96,TRUE,FALSE,In-unit,6,4.2
+Tipp Hill 1BR Cozy,950,1,1,400 Tompkins St,43.0276,-76.1501,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,FALSE,700,72,58,70,FALSE,TRUE,None,21,3.9
+SU Campus 4BR Furnished,2500,4,2,500 Euclid Ave,43.0372,-76.1265,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,2200,94,88,97,TRUE,TRUE,In-unit,4,4.3
+Westcott 2BR Vintage,1350,2,1,600 Harvard Pl,43.0418,-76.1312,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,TRUE,1000,88,75,91,FALSE,FALSE,In-unit,3,4.5
+Downtown 1BR Loft,1100,1,1,700 W Jefferson St,43.0465,-76.1554,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,FALSE,750,81,93,84,FALSE,TRUE,Shared,17,3.7
+SU Adjacent 5BR,2700,5,2.5,800 Ackerman Ave,43.0398,-76.1387,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,2400,91,85,94,TRUE,FALSE,None,9,3.5
+Eastwood 3BR Modern,1700,3,1.5,900 Jamesville Ave,43.0543,-76.1102,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastwood,TRUE,1500,75,60,85,TRUE,TRUE,Shared,8,4.1
+SU Shuttle 2BR,1300,2,1,100 Comstock Ave,43.0392,-76.1343,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,1100,89,83,90,FALSE,FALSE,In-unit,5,4
+Westside 4BR Updated,2000,4,2,200 Geddes St,43.0503,-76.1643,https://orangehousing.com/index.php/syracuse-apartments/listings,Westside,TRUE,1800,60,52,70,TRUE,TRUE,None,13,3.6
+Strathmore 1BR Quiet,900,1,1,300 Strathmore Dr,43.0234,-76.1165,https://orangehousing.com/index.php/syracuse-apartments/listings,Strathmore,FALSE,650,63,40,68,FALSE,FALSE,Shared,24,4.2
+SU Medical 3BR,1900,3,2,400 Irving Ave,43.0323,-76.1443,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1600,88,84,92,TRUE,FALSE,In-unit,7,4.4
+Tipp Hill 2BR Updated,1250,2,1,500 Tompkins St,43.0267,-76.1512,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,TRUE,950,74,62,78,FALSE,TRUE,In-unit,4,4.1
+SU Campus Studio,900,0,1,600 Walnut Pl,43.0362,-76.1293,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,450,91,86,93,FALSE,FALSE,Shared,2,4.3
+Westcott Efficiency,850,0,1,700 Westcott St,43.0412,-76.1328,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,FALSE,400,84,72,88,FALSE,TRUE,None,19,3.8
+Downtown Micro-Loft,950,0,1,800 S Warren St,43.0498,-76.1512,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,TRUE,350,79,91,82,FALSE,FALSE,Shared,8,4
+SU Grad Housing 1BR,1100,1,1,900 Ackerman Ave,43.0405,-76.1382,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,700,90,85,92,FALSE,TRUE,In-unit,6,3.9
+Eastside Basement 1BR,800,1,1,100 Lancaster Ave,43.0562,-76.1093,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastside,FALSE,600,66,48,72,FALSE,FALSE,None,25,3.5
+SU Faculty Housing 2BR,1600,2,1,200 Euclid Ave,43.0378,-76.1272,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1100,92,87,95,TRUE,FALSE,In-unit,3,4.6
+Tipp Hill Attic 1BR,750,1,1,300 Tompkins St,43.0272,-76.1505,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,FALSE,500,70,56,68,FALSE,TRUE,Shared,21,3.7
+Westcott Garden Apt,1200,1,1,400 Harvard Pl,43.0425,-76.1318,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,TRUE,800,86,74,90,FALSE,FALSE,In-unit,5,4.4
+SU International House,1400,2,1,500 Comstock Ave,43.0395,-76.1338,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1000,93,88,96,TRUE,TRUE,Shared,4,4.2
+Strathmore Mother-in-Law,1000,1,1,600 Strathmore Ln,43.0248,-76.1182,https://orangehousing.com/index.php/syracuse-apartments/listings,Strathmore,FALSE,700,64,42,73,FALSE,FALSE,None,16,3.9
+SU Nursing School 1BR,1150,1,1,700 Irving Ave,43.0338,-76.1438,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,750,87,83,90,FALSE,TRUE,In-unit,7,4.1
+Downtown Artist Loft,1300,1,1,800 W Fayette St,43.0472,-76.1548,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,TRUE,900,83,94,87,FALSE,FALSE,Shared,10,4.3
+Westcott Carriage House,1800,2,1,900 Westcott Ct,43.0418,-76.1332,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,FALSE,1200,85,70,89,TRUE,TRUE,None,8,4
+SU Music School Studio,950,0,1,100 Crouse Dr,43.0382,-76.1402,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,500,89,84,91,FALSE,FALSE,Shared,3,4.5
+Eastwood Garage Apt,850,1,1,200 Jamesville Rd,43.0548,-76.1108,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastwood,FALSE,600,67,50,75,FALSE,TRUE,None,22,3.6
+SU Architecture Loft,1500,1,1,300 Slocum Ave,43.0352,-76.1292,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,900,94,89,97,FALSE,FALSE,In-unit,5,4.2
+Tipp Hill Duplex 2BR,1350,2,1,400 Tompkins St,43.0278,-76.1518,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,FALSE,1100,73,60,76,TRUE,TRUE,Shared,9,3.8
+Westcott Sunroom Studio,1000,0,1,500 Westcott Ter,43.0422,-76.1322,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,TRUE,550,87,73,90,FALSE,FALSE,In-unit,4,4.4
+SU Law School 1BR,1250,1,1,600 MacKinnon Ave,43.0379,-76.1402,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,850,88,85,93,FALSE,TRUE,Shared,6,4.1
+Strathmore Pool House,1100,1,1,700 Strathmore Way,43.0252,-76.1192,https://orangehousing.com/index.php/syracuse-apartments/listings,Strathmore,FALSE,750,62,40,70,TRUE,FALSE,None,18,3.7
+SU Medical Studio,1050,0,1,800 Irving Ave,43.0342,-76.1442,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,500,86,82,89,FALSE,FALSE,Shared,5,4.3
+Downtown Penthouse,2400,2,2,900 S Salina St,43.0482,-76.1522,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,TRUE,1500,85,96,88,TRUE,TRUE,In-unit,2,4.7
+Westcott Treehouse,1600,1,1,100 Westcott Hts,43.0432,-76.1312,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,FALSE,900,84,71,91,FALSE,FALSE,None,12,4
+SU Engineering 2BR,1700,2,1,200 Link Hall,43.0368,-76.1358,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,1200,95,90,98,TRUE,FALSE,In-unit,3,4.5
+Eastwood Cottage,1400,2,1,300 Jamesville Ct,43.0552,-76.1112,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastwood,TRUE,1000,76,62,84,TRUE,TRUE,Shared,7,4.2
+Tipp Hill Bungalow,1200,2,1,400 Tompkins Pl,43.0282,-76.1522,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,FALSE,950,71,58,72,FALSE,FALSE,In-unit,8,3.9
+SU Business School 1BR,1300,1,1,500 Whitman Rd,43.0348,-76.1388,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,800,90,86,94,FALSE,TRUE,Shared,5,4.1
+Strathmore Guest House,950,1,1,600 Strathmore Gr,43.0242,-76.1202,https://orangehousing.com/index.php/syracuse-apartments/listings,Strathmore,TRUE,650,63,41,71,FALSE,FALSE,None,20,3.8
+SU Public Health Studio,1100,0,1,700 Irving Ct,43.0332,-76.1452,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,TRUE,550,85,81,88,FALSE,TRUE,Shared,4,4.4
+Downtown Converted Office,1500,1,1,800 W Washington St,43.0468,-76.1558,https://orangehousing.com/index.php/syracuse-apartments/listings,Downtown,FALSE,1000,82,93,85,FALSE,FALSE,In-unit,9,3.7
+Westcott Artist Studio,1200,0,1,900 Westcott Art,43.0428,-76.1338,https://orangehousing.com/index.php/syracuse-apartments/listings,Westcott,TRUE,600,83,70,89,FALSE,TRUE,None,6,4.3
+SU iSchool Housing,1400,1,1,100 Hinds Hall,43.0358,-76.1368,https://orangehousing.com/index.php/syracuse-apartments/listings,University Hill,FALSE,900,94,89,97,FALSE,FALSE,Shared,3,4.6
+Eastwood Efficiency,900,0,1,200 Jamesville Eff,43.0562,-76.1122,https://orangehousing.com/index.php/syracuse-apartments/listings,Eastwood,FALSE,500,68,53,77,FALSE,TRUE,None,23,3.5
+Tipp Hill Loft,1300,1,1,300 Tompkins Loft,43.0272,-76.1532,https://orangehousing.com/index.php/syracuse-apartments/listings,Tipperary Hill,TRUE,850,72,59,74,FALSE,FALSE,In-unit,7,4
+SU Maxwell School 1BR,1450,1,1,400 Eggers Hall,43.0362,-76.1372,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~0,University Hill,TRUE,950,93,88,96,FALSE,TRUE,Shared,5,4.2
+Strathmore Cabin,1100,1,1,500 Strathmore Cab,43.0258,-76.1212,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~1,Strathmore,FALSE,700,61,39,69,TRUE,FALSE,None,17,3.9
+SU Newhouse Studio,1250,0,1,600 Newhouse 3,43.0372,-76.1412,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~2,University Hill,TRUE,600,89,85,92,FALSE,FALSE,Shared,4,4.1
+Downtown Bookstore Apt,1600,1,1,700 S Warren Loft,43.0492,-76.1522,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~3,Downtown,FALSE,1100,84,92,86,FALSE,TRUE,In-unit,8,4.3
+Westcott Writer's Retreat,1350,1,1,800 Westcott Wr,43.0438,-76.1348,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~4,Westcott,TRUE,850,81,69,87,FALSE,FALSE,None,10,4
+SU Falk College 1BR,1550,1,1,900 MacNaughton,43.0348,-76.1398,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~5,University Hill,FALSE,1000,91,87,95,FALSE,TRUE,Shared,6,4.4
+Eastwood Minimalist,1000,1,1,100 Jamesville Min,43.0572,-76.1132,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~6,Eastwood,TRUE,650,70,55,79,FALSE,FALSE,In-unit,14,3.7
+Tipp Hill Historic,1400,2,1,200 Tompkins Hist,43.0282,-76.1542,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~7,Tipperary Hill,FALSE,1100,74,61,75,TRUE,TRUE,None,9,4.1
+SU VPA Live/Work,1700,1,1,300 Comstock Art,43.0392,-76.1352,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~8,University Hill,TRUE,1200,92,87,95,FALSE,FALSE,In-unit,3,4.5
+Strathmore Zen Studio,1150,0,1,400 Strathmore Zen,43.0262,-76.1222,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~9,Strathmore,TRUE,650,64,43,72,FALSE,TRUE,Shared,15,3.8
+SU STEM Housing,1800,2,1,500 Link Hall,43.0362,-76.1362,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~10,University Hill,FALSE,1300,94,89,97,TRUE,FALSE,In-unit,4,4.2
+Downtown Tech Loft,2000,1,1,600 S Clinton Tech,43.0482,-76.1532,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~11,Downtown,TRUE,1100,87,94,89,FALSE,TRUE,Shared,7,4
+Westcott Professor's Pad,1650,2,1,700 Westcott Prof,43.0442,-76.1352,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~12,Westcott,FALSE,1200,82,68,84,TRUE,FALSE,None,11,4.3
+SU Honors Housing,1500,1,1,800 Mount Olympus,43.0352,-76.1402,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~13,University Hill,TRUE,950,90,86,94,FALSE,FALSE,In-unit,5,4.1
+Eastwood Eco Studio,1200,0,1,900 Jamesville Eco,43.0582,-76.1142,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~14,Eastwood,FALSE,700,72,57,81,FALSE,TRUE,Shared,19,3.9
+Tipp Hill Jazz Loft,1300,1,1,100 Tompkins Jazz,43.0292,-76.1552,https://syracuse.craigslist.org/search/apa?sort=priceasc#search=2~gallery~15,Tipperary Hill,TRUE,850,75,63,80,FALSE,FALSE,In-unit,8,4.2
