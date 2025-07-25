@@ -1,0 +1,51 @@
+﻿title,price,beds,address,lat,lon,link,neighborhood,is_furnished
+Comstock Ave 4BR Student House,2100,4,715 Comstock Ave,43.0402,-76.1324,https://example.com/1,University Hill,TRUE
+Madison St 3BR Walk-to-SU,1800,3,909 Madison St,43.0381,-76.1301,https://example.com/2,University Hill,FALSE
+Walnut Ave 2BR Renovated,1500,2,505 Walnut Ave,43.0365,-76.128,https://example.com/3,Westcott,TRUE
+SU Campus 5BR Furnished,2500,5,123 College Pl,43.039,-76.1345,https://example.com/4,University Hill,TRUE
+Downtown Luxury 1BR,1200,1,456 S Salina St,43.0487,-76.1524,https://example.com/5,Downtown,FALSE
+Westcott 3BR Character Home,1650,3,201 Westcott St,43.0423,-76.1317,https://example.com/6,Westcott,FALSE
+Thornden Park 2BR Apt,1350,2,300 Ostrom Ave,43.0445,-76.1298,https://example.com/7,East Neighborhood,TRUE
+Euclid Ave 4BR Student Rental,2200,4,400 Euclid Ave,43.0376,-76.1265,https://example.com/8,University Hill,TRUE
+South Campus 3BR House,1900,3,500 Sumner Ave,43.0321,-76.1354,https://example.com/9,South Campus,FALSE
+Tipp Hill 2BR Modern,1400,2,100 Tompkins St,43.0278,-76.1489,https://example.com/10,Tipperary Hill,TRUE
+SU Adjacent 6BR Party House,3000,6,200 Ackerman Ave,43.0412,-76.1376,https://example.com/11,University Hill,FALSE
+Eastwood 1BR Cozy,950,1,300 Jamesville Ave,43.0543,-76.1087,https://example.com/12,Eastwood,TRUE
+Strathmore 3BR Luxury,2300,3,400 Strathmore Dr,43.0254,-76.1187,https://example.com/13,Strathmore,FALSE
+Near SU Hospital 2BR,1250,2,500 Irving Ave,43.0345,-76.1423,https://example.com/14,University Hill,TRUE
+Westside 1BR Budget,750,1,600 Geddes St,43.0521,-76.1623,https://example.com/15,Westside,FALSE
+SU Shuttle Route 4BR,2400,4,700 Comstock Ave,43.0398,-76.1332,https://example.com/16,University Hill,TRUE
+Lincoln Ave 3BR Updated,1750,3,800 Lincoln Ave,43.0367,-76.1254,https://example.com/17,East Neighborhood,FALSE
+Ostrom Ave 2BR Quiet,1300,2,900 Ostrom Ave,43.0432,-76.1287,https://example.com/18,East Neighborhood,TRUE
+Redfield 5BR Spacious,2700,5,100 Redfield Pkwy,43.0289,-76.1198,https://example.com/19,Redfield,FALSE
+Near SU Law School 1BR,1100,1,200 MacKinnon Ave,43.0376,-76.1398,https://example.com/20,University Hill,TRUE
+Westcott 4BR Character,2200,4,300 Westcott St,43.0415,-76.1321,https://example.com/21,Westcott,FALSE
+SU South 3BR Modern,1950,3,400 Clarendon St,43.0312,-76.1365,https://example.com/22,South Campus,TRUE
+Downtown Loft 2BR,1800,2,500 W Jefferson St,43.0476,-76.1543,https://example.com/23,Downtown,FALSE
+SU Hill 5BR Furnished,2800,5,600 Walnut Ave,43.0354,-76.1276,https://example.com/24,University Hill,TRUE
+Eastside 1BR Affordable,850,1,700 Lancaster Ave,43.0567,-76.1076,https://example.com/25,Eastside,FALSE
+Near SU Dome 4BR,2600,4,800 Euclid Ave,43.0365,-76.1254,https://example.com/26,University Hill,TRUE
+Westcott 2BR Updated,1450,2,900 Harvard Pl,43.0421,-76.1309,https://example.com/27,Westcott,TRUE
+SU Adjacent 3BR,2000,3,100 Ackerman Ave,43.0409,-76.1372,https://example.com/28,University Hill,FALSE
+Tipp Hill 4BR Spacious,2300,4,200 Tompkins St,43.0265,-76.1498,https://example.com/29,Tipperary Hill,FALSE
+Eastwood 2BR Modern,1200,2,300 Jamesville Ave,43.0532,-76.1098,https://example.com/30,Eastwood,TRUE
+SU Campus 6BR Luxury,3200,6,400 Comstock Ave,43.0387,-76.1334,https://example.com/31,University Hill,TRUE
+Westside 3BR Updated,1600,3,500 Geddes St,43.0512,-76.1632,https://example.com/32,Westside,FALSE
+Strathmore 2BR Quiet,1400,2,600 Strathmore Dr,43.0243,-76.1176,https://example.com/33,Strathmore,TRUE
+SU Medical Area 1BR,1050,1,700 Irving Ave,43.0334,-76.1432,https://example.com/34,University Hill,FALSE
+Downtown 3BR Loft,2200,3,800 S Salina St,43.0476,-76.1532,https://example.com/35,Downtown,TRUE
+Westcott 5BR Historic,2900,5,900 Westcott St,43.0408,-76.1315,https://example.com/36,Westcott,FALSE
+SU South 2BR Modern,1500,2,100 Clarendon St,43.0301,-76.1376,https://example.com/37,South Campus,TRUE
+Eastside 4BR Spacious,2400,4,200 Lancaster Ave,43.0556,-76.1087,https://example.com/38,Eastside,FALSE
+SU Hill 3BR Updated,2100,3,300 Walnut Ave,43.0356,-76.1287,https://example.com/39,University Hill,TRUE
+Tipp Hill 1BR Cozy,950,1,400 Tompkins St,43.0276,-76.1501,https://example.com/40,Tipperary Hill,FALSE
+SU Campus 4BR Furnished,2500,4,500 Euclid Ave,43.0372,-76.1265,https://example.com/41,University Hill,TRUE
+Westcott 2BR Vintage,1350,2,600 Harvard Pl,43.0418,-76.1312,https://example.com/42,Westcott,TRUE
+Downtown 1BR Loft,1100,1,700 W Jefferson St,43.0465,-76.1554,https://example.com/43,Downtown,FALSE
+SU Adjacent 5BR,2700,5,800 Ackerman Ave,43.0398,-76.1387,https://example.com/44,University Hill,FALSE
+Eastwood 3BR Modern,1700,3,900 Jamesville Ave,43.0543,-76.1102,https://example.com/45,Eastwood,TRUE
+SU Shuttle 2BR,1300,2,100 Comstock Ave,43.0392,-76.1343,https://example.com/46,University Hill,FALSE
+Westside 4BR Updated,2000,4,200 Geddes St,43.0503,-76.1643,https://example.com/47,Westside,TRUE
+Strathmore 1BR Quiet,900,1,300 Strathmore Dr,43.0234,-76.1165,https://example.com/48,Strathmore,FALSE
+SU Medical 3BR,1900,3,400 Irving Ave,43.0323,-76.1443,https://example.com/49,University Hill,TRUE
+Tipp Hill 2BR Updated,1250,2,500 Tompkins St,43.0267,-76.1512,https://example.com/50,Tipperary Hill,TRUE
