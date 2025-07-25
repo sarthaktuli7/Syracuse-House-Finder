@@ -16,7 +16,7 @@ def load_and_prepare_data():
     try:
         # Load the corrected CSV file
         # IMPORTANT: Adjust this path if your CSV is NOT in a 'data' subfolder
-        df = pd.read_csv("src/syracuse_rental.csv")
+        df = pd.read_csv("syracuse_rental.csv")
         
         # Ensure required columns exist
         required_cols = ['title', 'price', 'beds', 'address', 'lat', 'lon', 'link', 'neighborhood', 'is_furnished']
